@@ -37,7 +37,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:onClick="getlot"/>
+        android:onClick="getlot"/><![CDATA[
 
     Button
         android:layout_width="wrap_content"
@@ -47,4 +47,5 @@
         android:layout_below="@+id/button"
         android:layout_centerHorizontal="true" />
 
+]]>
 </RelativeLayout>
