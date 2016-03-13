@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
         "merged": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_lottemp.xml",
         "source": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\src\\main\\res\\menu\\menu_lottemp.xml"
+    },
+    {
+        "merged": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
         "merged": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_lottemp.xml",
