@@ -9,16 +9,17 @@ import android.view.View;
 
 
 public class MainActivity extends ActionBarActivity {
-
+    String[] lotnames = {"Lake Lot 1", "Lake Lot 2"};
+    int spotsopen = 54;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-public void getlot(View v){
+    public void getlot(View v){
         Intent bleh = new Intent(this,lottemp.class);
-    //bleh.putExtra();
-    startActivity(bleh);
+        bleh.putExtra("spotsopen",spotsopen);
+        startActivity(bleh);
     }
 
     @Override
