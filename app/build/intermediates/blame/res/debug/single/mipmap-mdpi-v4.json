@@ -4,11 +4,11 @@
         "source": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

@@ -6,9 +6,9 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 113,
-                    "endOffset": 164
+                    "endOffset": 214
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -25,9 +25,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 169,
+                    "startOffset": 219,
                     "endColumn": 107,
-                    "endOffset": 272
+                    "endOffset": 322
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -44,9 +44,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 277,
+                    "startOffset": 327,
                     "endColumn": 122,
-                    "endOffset": 395
+                    "endOffset": 445
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -63,9 +63,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 400,
+                    "startOffset": 450,
                     "endColumn": 107,
-                    "endOffset": 503
+                    "endOffset": 553
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -82,9 +82,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 508,
+                    "startOffset": 558,
                     "endColumn": 108,
-                    "endOffset": 612
+                    "endOffset": 662
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -101,9 +101,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 617,
+                    "startOffset": 667,
                     "endColumn": 83,
-                    "endOffset": 696
+                    "endOffset": 746
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -120,9 +120,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 701,
+                    "startOffset": 751,
                     "endColumn": 102,
-                    "endOffset": 799
+                    "endOffset": 849
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -139,9 +139,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 804,
+                    "startOffset": 854,
                     "endColumn": 118,
-                    "endOffset": 918
+                    "endOffset": 968
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -158,9 +158,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 923,
+                    "startOffset": 973,
                     "endColumn": 103,
-                    "endOffset": 1022
+                    "endOffset": 1072
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -177,9 +177,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1027,
+                    "startOffset": 1077,
                     "endColumn": 108,
-                    "endOffset": 1131
+                    "endOffset": 1181
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -196,9 +196,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1136,
+                    "startOffset": 1186,
                     "endColumn": 100,
-                    "endOffset": 1232
+                    "endOffset": 1282
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -215,9 +215,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1237,
+                    "startOffset": 1287,
                     "endColumn": 104,
-                    "endOffset": 1337
+                    "endOffset": 1387
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -234,9 +234,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1342,
+                    "startOffset": 1392,
                     "endColumn": 113,
-                    "endOffset": 1451
+                    "endOffset": 1501
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -253,9 +253,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1456,
+                    "startOffset": 1506,
                     "endColumn": 104,
-                    "endOffset": 1556
+                    "endOffset": 1606
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -272,9 +272,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1561,
+                    "startOffset": 1611,
                     "endColumn": 119,
-                    "endOffset": 1676
+                    "endOffset": 1726
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -291,9 +291,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1681,
+                    "startOffset": 1731,
                     "endColumn": 98,
-                    "endOffset": 1775
+                    "endOffset": 1825
                 },
                 "from": {
                     "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-vi\\values.xml",
@@ -303,6 +303,576 @@
                         "startOffset": 1902,
                         "endColumn": 98,
                         "endOffset": 1996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1830,
+                    "endColumn": 191,
+                    "endOffset": 2017
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 195,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2022,
+                    "endColumn": 181,
+                    "endOffset": 2199
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2642,
+                        "endColumn": 185,
+                        "endOffset": 2823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2204,
+                    "endColumn": 112,
+                    "endOffset": 2312
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2333,
+                        "endColumn": 112,
+                        "endOffset": 2441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2317,
+                    "endColumn": 258,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4520,
+                        "endColumn": 262,
+                        "endOffset": 4778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endColumn": 127,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2073,
+                        "endColumn": 127,
+                        "endOffset": 2196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 197,
+                    "endOffset": 2897
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endColumn": 201,
+                        "endOffset": 2068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2902,
+                    "endColumn": 125,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 125,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endColumn": 172,
+                    "endOffset": 3196
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 176,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3201,
+                    "endColumn": 132,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1612,
+                        "endColumn": 132,
+                        "endOffset": 1740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 223,
+                    "endOffset": 3553
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 227,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3558,
+                    "endColumn": 226,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 230,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 129,
+                    "endOffset": 3910
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 129,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3915,
+                    "endColumn": 195,
+                    "endOffset": 4106
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3588,
+                        "endColumn": 195,
+                        "endOffset": 3779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4111,
+                    "endColumn": 130,
+                    "endOffset": 4237
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3457,
+                        "endColumn": 130,
+                        "endOffset": 3583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4242,
+                    "endColumn": 160,
+                    "endOffset": 4398
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 160,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4403,
+                    "endColumn": 171,
+                    "endOffset": 4570
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3285,
+                        "endColumn": 171,
+                        "endOffset": 3452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4575,
+                    "endColumn": 114,
+                    "endOffset": 4685
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3170,
+                        "endColumn": 114,
+                        "endOffset": 3280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4690,
+                    "endColumn": 184,
+                    "endOffset": 4870
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 184,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4875,
+                    "endColumn": 133,
+                    "endOffset": 5004
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 133,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 5009,
+                    "endColumn": 186,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4917,
+                        "endColumn": 186,
+                        "endOffset": 5099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 133,
+                    "endOffset": 5325
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4783,
+                        "endColumn": 133,
+                        "endOffset": 4912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5330,
+                    "endColumn": 149,
+                    "endOffset": 5475
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3784,
+                        "endColumn": 149,
+                        "endOffset": 3929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5480,
+                    "endColumn": 247,
+                    "endOffset": 5723
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4062,
+                        "endColumn": 251,
+                        "endOffset": 4309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5728,
+                    "endColumn": 127,
+                    "endOffset": 5851
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3934,
+                        "endColumn": 127,
+                        "endOffset": 4057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5856,
+                    "endColumn": 108,
+                    "endOffset": 5960
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4314,
+                        "endColumn": 108,
+                        "endOffset": 4418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5965,
+                    "endColumn": 191,
+                    "endOffset": 6152
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2446,
+                        "endColumn": 195,
+                        "endOffset": 2637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6157,
+                    "endColumn": 131,
+                    "endOffset": 6284
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2201,
+                        "endColumn": 131,
+                        "endOffset": 2328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6289,
+                    "endColumn": 199,
+                    "endOffset": 6484
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 203,
+                        "endOffset": 3165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6489,
+                    "endColumn": 137,
+                    "endOffset": 6622
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2828,
+                        "endColumn": 137,
+                        "endOffset": 2961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6627,
+                    "endColumn": 96,
+                    "endOffset": 6719
+                },
+                "from": {
+                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-vi\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4423,
+                        "endColumn": 96,
+                        "endOffset": 4515
                     }
                 }
             }

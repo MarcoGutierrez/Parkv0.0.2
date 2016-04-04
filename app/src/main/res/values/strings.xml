@@ -4,4 +4,5 @@
     <string name="hello_world">UC Merced</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_lottemp">lottemp</string>
+    <string name="title_activity_locations">Locations</string>
 </resources>
