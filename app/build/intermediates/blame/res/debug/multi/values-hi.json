@@ -1,624 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\values-hi\\values-hi.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 116,
-                    "endOffset": 167
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 276,
-                        "endColumn": 116,
-                        "endOffset": 388
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 172,
-                    "endColumn": 107,
-                    "endOffset": 275
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 393,
-                        "endColumn": 107,
-                        "endOffset": 496
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 280,
-                    "endColumn": 122,
-                    "endOffset": 398
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 501,
-                        "endColumn": 122,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 403,
-                    "endColumn": 104,
-                    "endOffset": 503
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 104,
-                        "endOffset": 724
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 508,
-                    "endColumn": 106,
-                    "endOffset": 610
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 729,
-                        "endColumn": 106,
-                        "endOffset": 831
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 615,
-                    "endColumn": 84,
-                    "endOffset": 695
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 836,
-                        "endColumn": 84,
-                        "endOffset": 916
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 700,
-                    "endColumn": 101,
-                    "endOffset": 797
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 921,
-                        "endColumn": 101,
-                        "endOffset": 1018
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 802,
-                    "endColumn": 121,
-                    "endOffset": 919
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1023,
-                        "endColumn": 121,
-                        "endOffset": 1140
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 924,
-                    "endColumn": 108,
-                    "endOffset": 1028
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1145,
-                        "endColumn": 108,
-                        "endOffset": 1249
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1033,
-                    "endColumn": 101,
-                    "endOffset": 1130
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1254,
-                        "endColumn": 101,
-                        "endOffset": 1351
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1135,
-                    "endColumn": 97,
-                    "endOffset": 1228
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 97,
-                        "endOffset": 1449
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1233,
-                    "endColumn": 109,
-                    "endOffset": 1338
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1454,
-                        "endColumn": 109,
-                        "endOffset": 1559
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1343,
-                    "endColumn": 99,
-                    "endOffset": 1438
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1564,
-                        "endColumn": 99,
-                        "endOffset": 1659
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1443,
-                    "endColumn": 114,
-                    "endOffset": 1553
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1664,
-                        "endColumn": 114,
-                        "endOffset": 1774
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1558,
-                    "endColumn": 124,
-                    "endOffset": 1678
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1779,
-                        "endColumn": 124,
-                        "endOffset": 1899
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1683,
-                    "endColumn": 105,
-                    "endOffset": 1784
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1904,
-                        "endColumn": 105,
-                        "endOffset": 2005
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\res\\merged\\debug\\values-hi\\values-hi.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 116,
-                    "endOffset": 167
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 276,
-                        "endColumn": 116,
-                        "endOffset": 388
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 172,
-                    "endColumn": 107,
-                    "endOffset": 275
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 393,
-                        "endColumn": 107,
-                        "endOffset": 496
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 280,
-                    "endColumn": 122,
-                    "endOffset": 398
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 501,
-                        "endColumn": 122,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 403,
-                    "endColumn": 104,
-                    "endOffset": 503
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 104,
-                        "endOffset": 724
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 508,
-                    "endColumn": 106,
-                    "endOffset": 610
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 729,
-                        "endColumn": 106,
-                        "endOffset": 831
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 615,
-                    "endColumn": 84,
-                    "endOffset": 695
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 836,
-                        "endColumn": 84,
-                        "endOffset": 916
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 700,
-                    "endColumn": 101,
-                    "endOffset": 797
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 921,
-                        "endColumn": 101,
-                        "endOffset": 1018
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 802,
-                    "endColumn": 121,
-                    "endOffset": 919
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1023,
-                        "endColumn": 121,
-                        "endOffset": 1140
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 924,
-                    "endColumn": 108,
-                    "endOffset": 1028
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1145,
-                        "endColumn": 108,
-                        "endOffset": 1249
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1033,
-                    "endColumn": 101,
-                    "endOffset": 1130
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1254,
-                        "endColumn": 101,
-                        "endOffset": 1351
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1135,
-                    "endColumn": 97,
-                    "endOffset": 1228
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 97,
-                        "endOffset": 1449
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1233,
-                    "endColumn": 109,
-                    "endOffset": 1338
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1454,
-                        "endColumn": 109,
-                        "endOffset": 1559
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1343,
-                    "endColumn": 99,
-                    "endOffset": 1438
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1564,
-                        "endColumn": 99,
-                        "endOffset": 1659
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1443,
-                    "endColumn": 114,
-                    "endOffset": 1553
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1664,
-                        "endColumn": 114,
-                        "endOffset": 1774
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1558,
-                    "endColumn": 124,
-                    "endOffset": 1678
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1779,
-                        "endColumn": 124,
-                        "endOffset": 1899
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1683,
-                    "endColumn": 105,
-                    "endOffset": 1784
-                },
-                "from": {
-                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1904,
-                        "endColumn": 105,
-                        "endOffset": 2005
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\res\\merged\\debug\\values-hi\\values-hi.xml",
+        "outputFile": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\res\\merged\\debug\\values-hi\\values-hi.xml",
         "map": [
             {
                 "to": {
@@ -629,7 +11,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -648,7 +30,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -667,7 +49,7 @@
                     "endOffset": 448
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -686,7 +68,7 @@
                     "endOffset": 553
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -705,7 +87,7 @@
                     "endOffset": 660
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -724,7 +106,7 @@
                     "endOffset": 745
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -743,7 +125,7 @@
                     "endOffset": 847
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -762,7 +144,7 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -777,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 974,
-                    "endColumn": 108,
-                    "endOffset": 1078
+                    "endColumn": 89,
+                    "endOffset": 1059
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
                         "startOffset": 1145,
-                        "endColumn": 108,
-                        "endOffset": 1249
+                        "endColumn": 89,
+                        "endOffset": 1230
                     }
                 }
             },
@@ -795,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1083,
-                    "endColumn": 101,
-                    "endOffset": 1180
+                    "startOffset": 1064,
+                    "endColumn": 108,
+                    "endOffset": 1168
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1254,
-                        "endColumn": 101,
-                        "endOffset": 1351
+                        "startOffset": 1235,
+                        "endColumn": 108,
+                        "endOffset": 1339
                     }
                 }
             },
@@ -814,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1185,
-                    "endColumn": 97,
-                    "endOffset": 1278
+                    "startOffset": 1173,
+                    "endColumn": 101,
+                    "endOffset": 1270
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 97,
-                        "endOffset": 1449
+                        "startOffset": 1344,
+                        "endColumn": 101,
+                        "endOffset": 1441
                     }
                 }
             },
@@ -833,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1283,
-                    "endColumn": 109,
-                    "endOffset": 1388
+                    "startOffset": 1275,
+                    "endColumn": 97,
+                    "endOffset": 1368
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1454,
-                        "endColumn": 109,
-                        "endOffset": 1559
+                        "startOffset": 1446,
+                        "endColumn": 97,
+                        "endOffset": 1539
                     }
                 }
             },
@@ -852,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1393,
-                    "endColumn": 99,
-                    "endOffset": 1488
+                    "startOffset": 1373,
+                    "endColumn": 109,
+                    "endOffset": 1478
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1564,
-                        "endColumn": 99,
-                        "endOffset": 1659
+                        "startOffset": 1544,
+                        "endColumn": 109,
+                        "endOffset": 1649
                     }
                 }
             },
@@ -871,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1493,
-                    "endColumn": 114,
-                    "endOffset": 1603
+                    "startOffset": 1483,
+                    "endColumn": 99,
+                    "endOffset": 1578
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1664,
-                        "endColumn": 114,
-                        "endOffset": 1774
+                        "startOffset": 1654,
+                        "endColumn": 99,
+                        "endOffset": 1749
                     }
                 }
             },
@@ -890,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1608,
-                    "endColumn": 124,
-                    "endOffset": 1728
+                    "startOffset": 1583,
+                    "endColumn": 114,
+                    "endOffset": 1693
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1779,
-                        "endColumn": 124,
-                        "endOffset": 1899
+                        "startOffset": 1754,
+                        "endColumn": 114,
+                        "endOffset": 1864
                     }
                 }
             },
@@ -909,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1733,
-                    "endColumn": 105,
-                    "endOffset": 1834
+                    "startOffset": 1698,
+                    "endColumn": 124,
+                    "endOffset": 1818
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-hi\\values.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1904,
-                        "endColumn": 105,
-                        "endOffset": 2005
+                        "startOffset": 1869,
+                        "endColumn": 124,
+                        "endOffset": 1989
                     }
                 }
             },
@@ -928,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1839,
-                    "endColumn": 196,
-                    "endOffset": 2031
+                    "startOffset": 1823,
+                    "endColumn": 105,
+                    "endOffset": 1924
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 487,
-                        "endColumn": 200,
-                        "endOffset": 683
+                        "startOffset": 1994,
+                        "endColumn": 105,
+                        "endOffset": 2095
                     }
                 }
             },
@@ -947,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 2036,
-                    "endColumn": 209,
-                    "endOffset": 2241
+                    "startOffset": 1929,
+                    "endColumn": 267,
+                    "endOffset": 2192
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 2639,
-                        "endColumn": 213,
-                        "endOffset": 2848
+                        "startOffset": 3509,
+                        "endColumn": 271,
+                        "endOffset": 3776
                     }
                 }
             },
@@ -966,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2246,
-                    "endColumn": 114,
-                    "endOffset": 2356
+                    "startOffset": 2197,
+                    "endColumn": 129,
+                    "endOffset": 2322
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 2323,
-                        "endColumn": 114,
-                        "endOffset": 2433
+                        "startOffset": 1342,
+                        "endColumn": 129,
+                        "endOffset": 1467
                     }
                 }
             },
@@ -985,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2361,
-                    "endColumn": 267,
-                    "endOffset": 2624
+                    "startOffset": 2327,
+                    "endColumn": 202,
+                    "endOffset": 2525
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 4522,
-                        "endColumn": 271,
-                        "endOffset": 4789
+                        "startOffset": 1135,
+                        "endColumn": 206,
+                        "endOffset": 1337
                     }
                 }
             },
@@ -1004,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2629,
-                    "endColumn": 129,
-                    "endOffset": 2754
+                    "startOffset": 2530,
+                    "endColumn": 128,
+                    "endOffset": 2654
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 2061,
-                        "endColumn": 129,
-                        "endOffset": 2186
+                        "startOffset": 1006,
+                        "endColumn": 128,
+                        "endOffset": 1130
                     }
                 }
             },
@@ -1023,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2759,
-                    "endColumn": 202,
-                    "endOffset": 2957
+                    "startOffset": 2659,
+                    "endColumn": 132,
+                    "endOffset": 2787
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 1854,
-                        "endColumn": 206,
-                        "endOffset": 2056
+                        "startOffset": 873,
+                        "endColumn": 132,
+                        "endOffset": 1001
                     }
                 }
             },
@@ -1042,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2962,
-                    "endColumn": 127,
-                    "endOffset": 3085
+                    "startOffset": 2792,
+                    "endColumn": 213,
+                    "endOffset": 3001
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 1726,
-                        "endColumn": 127,
-                        "endOffset": 1849
+                        "startOffset": 434,
+                        "endColumn": 217,
+                        "endOffset": 647
                     }
                 }
             },
@@ -1061,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3090,
-                    "endColumn": 174,
-                    "endOffset": 3260
+                    "startOffset": 3006,
+                    "endColumn": 216,
+                    "endOffset": 3218
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 862,
-                        "endColumn": 178,
-                        "endOffset": 1036
+                        "startOffset": 652,
+                        "endColumn": 220,
+                        "endOffset": 868
                     }
                 }
             },
@@ -1080,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 3265,
-                    "endColumn": 124,
-                    "endOffset": 3385
+                    "startOffset": 3223,
+                    "endColumn": 131,
+                    "endOffset": 3350
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1601,
-                        "endColumn": 124,
-                        "endOffset": 1721
+                        "startOffset": 302,
+                        "endColumn": 131,
+                        "endOffset": 429
                     }
                 }
             },
@@ -1099,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3390,
-                    "endColumn": 213,
-                    "endOffset": 3599
+                    "startOffset": 3355,
+                    "endColumn": 177,
+                    "endOffset": 3528
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1163,
-                        "endColumn": 217,
-                        "endOffset": 1376
+                        "startOffset": 2751,
+                        "endColumn": 177,
+                        "endOffset": 2924
                     }
                 }
             },
@@ -1118,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3604,
-                    "endColumn": 215,
-                    "endOffset": 3815
+                    "startOffset": 3533,
+                    "endColumn": 116,
+                    "endOffset": 3645
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1381,
-                        "endColumn": 219,
-                        "endOffset": 1596
+                        "startOffset": 2634,
+                        "endColumn": 116,
+                        "endOffset": 2746
                     }
                 }
             },
@@ -1137,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3820,
-                    "endColumn": 121,
-                    "endOffset": 3937
+                    "startOffset": 3650,
+                    "endColumn": 174,
+                    "endOffset": 3820
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1041,
-                        "endColumn": 121,
-                        "endOffset": 1158
+                        "startOffset": 2459,
+                        "endColumn": 174,
+                        "endOffset": 2629
                     }
                 }
             },
@@ -1156,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3942,
-                    "endColumn": 177,
-                    "endOffset": 4115
+                    "startOffset": 3825,
+                    "endColumn": 120,
+                    "endOffset": 3941
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 3617,
-                        "endColumn": 177,
-                        "endOffset": 3790
+                        "startOffset": 2338,
+                        "endColumn": 120,
+                        "endOffset": 2454
                     }
                 }
             },
@@ -1175,107 +557,12 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 4120,
-                    "endColumn": 119,
-                    "endOffset": 4235
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3497,
-                        "endColumn": 119,
-                        "endOffset": 3612
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 4240,
-                    "endColumn": 173,
-                    "endOffset": 4409
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 688,
-                        "endColumn": 173,
-                        "endOffset": 857
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 4414,
-                    "endColumn": 174,
-                    "endOffset": 4584
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3322,
-                        "endColumn": 174,
-                        "endOffset": 3492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4589,
-                    "endColumn": 120,
-                    "endOffset": 4705
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3201,
-                        "endColumn": 120,
-                        "endOffset": 3317
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4710,
-                    "endColumn": 184,
-                    "endOffset": 4890
-                },
-                "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 302,
-                        "endColumn": 184,
-                        "endOffset": 482
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 4895,
+                    "startOffset": 3946,
                     "endColumn": 131,
-                    "endOffset": 5022
+                    "endOffset": 4073
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1287,20 +574,115 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 5027,
-                    "endColumn": 178,
-                    "endOffset": 5201
+                    "startOffset": 4078,
+                    "endColumn": 181,
+                    "endOffset": 4255
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 4922,
-                        "endColumn": 178,
-                        "endOffset": 5096
+                        "startOffset": 4218,
+                        "endColumn": 181,
+                        "endOffset": 4395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4260,
+                    "endColumn": 131,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4086,
+                        "endColumn": 131,
+                        "endOffset": 4213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endColumn": 176,
+                    "endOffset": 4564
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3909,
+                        "endColumn": 176,
+                        "endOffset": 4081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4569,
+                    "endColumn": 127,
+                    "endOffset": 4692
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3781,
+                        "endColumn": 127,
+                        "endOffset": 3904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4697,
+                    "endColumn": 243,
+                    "endOffset": 4936
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-hi\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 247,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4941,
+                    "endColumn": 250,
+                    "endOffset": 5187
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3051,
+                        "endColumn": 254,
+                        "endOffset": 3301
                     }
                 }
             },
@@ -1308,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 5206,
-                    "endColumn": 127,
-                    "endOffset": 5329
+                    "startOffset": 5192,
+                    "endColumn": 121,
+                    "endOffset": 5309
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 4794,
-                        "endColumn": 127,
-                        "endOffset": 4917
+                        "startOffset": 2929,
+                        "endColumn": 121,
+                        "endOffset": 3046
                     }
                 }
             },
@@ -1327,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5334,
-                    "endColumn": 140,
-                    "endOffset": 5470
+                    "startOffset": 5314,
+                    "endColumn": 110,
+                    "endOffset": 5420
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3795,
-                        "endColumn": 140,
-                        "endOffset": 3931
+                        "startOffset": 3306,
+                        "endColumn": 110,
+                        "endOffset": 3412
                     }
                 }
             },
@@ -1346,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5475,
-                    "endColumn": 250,
-                    "endOffset": 5721
+                    "startOffset": 5425,
+                    "endColumn": 196,
+                    "endOffset": 5617
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 4059,
-                        "endColumn": 254,
-                        "endOffset": 4309
+                        "startOffset": 1604,
+                        "endColumn": 200,
+                        "endOffset": 1800
                     }
                 }
             },
@@ -1365,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5726,
-                    "endColumn": 122,
-                    "endOffset": 5844
+                    "startOffset": 5622,
+                    "endColumn": 131,
+                    "endOffset": 5749
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 3936,
-                        "endColumn": 122,
-                        "endOffset": 4054
+                        "startOffset": 1472,
+                        "endColumn": 131,
+                        "endOffset": 1599
                     }
                 }
             },
@@ -1384,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5849,
-                    "endColumn": 115,
-                    "endOffset": 5960
+                    "startOffset": 5754,
+                    "endColumn": 207,
+                    "endOffset": 5957
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 4314,
-                        "endColumn": 115,
-                        "endOffset": 4425
+                        "startOffset": 2126,
+                        "endColumn": 211,
+                        "endOffset": 2333
                     }
                 }
             },
@@ -1403,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5965,
-                    "endColumn": 196,
-                    "endOffset": 6157
+                    "startOffset": 5962,
+                    "endColumn": 136,
+                    "endOffset": 6094
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 2438,
-                        "endColumn": 200,
-                        "endOffset": 2634
+                        "startOffset": 1989,
+                        "endColumn": 136,
+                        "endOffset": 2121
                     }
                 }
             },
@@ -1422,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 6162,
-                    "endColumn": 131,
-                    "endOffset": 6289
+                    "startOffset": 6099,
+                    "endColumn": 183,
+                    "endOffset": 6278
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 2191,
-                        "endColumn": 131,
-                        "endOffset": 2318
+                        "startOffset": 1805,
+                        "endColumn": 183,
+                        "endOffset": 1984
                     }
                 }
             },
@@ -1441,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 6294,
-                    "endColumn": 207,
-                    "endOffset": 6497
+                    "startOffset": 6283,
+                    "endColumn": 91,
+                    "endOffset": 6370
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 2989,
-                        "endColumn": 211,
-                        "endOffset": 3196
+                        "startOffset": 3417,
+                        "endColumn": 91,
+                        "endOffset": 3504
                     }
                 }
             },
@@ -1460,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6502,
-                    "endColumn": 135,
-                    "endOffset": 6633
+                    "startOffset": 6375,
+                    "endColumn": 95,
+                    "endOffset": 6466
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 2853,
-                        "endColumn": 135,
-                        "endOffset": 2984
+                        "startOffset": 4400,
+                        "endColumn": 95,
+                        "endOffset": 4491
                     }
                 }
             },
@@ -1479,18 +861,303 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6638,
-                    "endColumn": 91,
-                    "endOffset": 6725
+                    "startOffset": 6471,
+                    "endColumn": 114,
+                    "endOffset": 6581
                 },
                 "from": {
-                    "file": "C:\\Users\\teresa\\AndroidStudioProjects\\Parkv0.0.3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-hi\\common_strings.xml",
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hi\\base_strings.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4430,
-                        "endColumn": 91,
-                        "endOffset": 4517
+                        "startOffset": 4496,
+                        "endColumn": 114,
+                        "endOffset": 4606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6586,
+                    "endColumn": 110,
+                    "endOffset": 6692
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 110,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6697,
+                    "endColumn": 115,
+                    "endOffset": 6808
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 115,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6813,
+                    "endColumn": 108,
+                    "endOffset": 6917
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 108,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6922,
+                    "endColumn": 109,
+                    "endOffset": 7027
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 109,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 7032,
+                    "endColumn": 126,
+                    "endOffset": 7154
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 126,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7159,
+                    "endColumn": 95,
+                    "endOffset": 7250
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 851,
+                        "endColumn": 95,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7255,
+                    "endColumn": 94,
+                    "endOffset": 7345
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 94,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7350,
+                    "endColumn": 116,
+                    "endOffset": 7462
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 116,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7467,
+                    "endColumn": 108,
+                    "endOffset": 7571
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 108,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7576,
+                    "endColumn": 85,
+                    "endOffset": 7657
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 85,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7662,
+                    "endColumn": 92,
+                    "endOffset": 7750
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 92,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7755,
+                    "endColumn": 103,
+                    "endOffset": 7854
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-hi\\location_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 103,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7859,
+                    "endColumn": 94,
+                    "endOffset": 7949
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-hi\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 94,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7954,
+                    "endColumn": 100,
+                    "endOffset": 8050
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hi\\values-hi.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2100,
+                        "endColumn": 100,
+                        "endOffset": 2196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 8055,
+                    "endColumn": 105,
+                    "endOffset": 8156
+                },
+                "from": {
+                    "file": "C:\\Users\\Mr-Antonio\\Desktop\\Parkv0.0.2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-hi\\wallet_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 105,
+                        "endOffset": 331
                     }
                 }
             }

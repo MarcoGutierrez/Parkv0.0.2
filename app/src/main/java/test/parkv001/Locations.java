@@ -56,7 +56,6 @@ public class Locations extends ActionBarActivity {
         planButton.setTextSize(14);
         planButton.setText(LocNames[0]);
         planButton.setId(View.generateViewId()); //This gives the button an unused ID so we can work with it and assign functions to it.
-
         planButton.setOnClickListener(new View.OnClickListener() { //It's here that you'd type in what you want this button to do; right now, it will just display a message.
             @Override
             public void onClick(View view) {

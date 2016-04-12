@@ -5,6 +5,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
 
 
@@ -19,6 +20,11 @@ public class lottemp extends ActionBarActivity {
         TextView myTextView = (TextView) findViewById(R.id.textView3); //finding text view
         myTextView.setText("" + openspots); // setting text view to value of openspots
     }
+    public void getlot(View v){
+        Intent bleh = new Intent(this,MapsActivity.class);
+        startActivity(bleh);
+    }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -27,6 +33,7 @@ public class lottemp extends ActionBarActivity {
         return true;
 
     }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
